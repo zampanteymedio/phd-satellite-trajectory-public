@@ -7,7 +7,7 @@ def readme():
 
 
 setup(name='phd-satellite-trajectory',
-      version='0.1',
+      version='0.2+snapshot',
       python_requires='>=3.6',
       packages=find_packages(where='.', exclude=('test',)),
       scripts=['scripts/launch_tensorboard.sh'],
@@ -29,7 +29,7 @@ setup(name='phd-satellite-trajectory',
       author='Carlos M. Casas Cuadrado',
       author_email='carlos.marce@gmail.com',
       install_requires=['gym>=0.17.3',
-                        'gym-satellite-trajectory>=0.1',
+                        'gym-satellite-trajectory>=0.2',
                         'matplotlib>=3.3.3',
                         'numpy>=1.19.4',
                         'setuptools>=51.0.0',
