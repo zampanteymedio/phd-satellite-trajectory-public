@@ -1,0 +1,18 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+
+# PyCharm project files
+.idea/
+
+# Builds
+*.egg-info
+
+# Coverage report
+.coverage
+reports/
+
+# Workspace folders
+workspace*
+
+# Profile outputs
+*.prof
