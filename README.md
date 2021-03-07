@@ -1,11 +1,11 @@
 # Agents to solve the gym envs for Satellite Trajectory Optimization
 
-[![Build Status](https://travis-ci.com/zampanteymedio/phd-satellite-trajectory-public.svg?branch=main)](https://travis-ci.com/zampanteymedio/phd-satellite-trajectory-public)
+[![Build Status](https://travis-ci.com/zampanteymedio/phd-satellite-trajectory-public.svg?branch=master)](https://travis-ci.com/zampanteymedio/phd-satellite-trajectory-public)
 [![codecov](https://codecov.io/gh/zampanteymedio/phd-satellite-trajectory-public/branch/master/graph/badge.svg?token=B2OB4DMOW9)](https://codecov.io/gh/zampanteymedio/phd-satellite-trajectory-public)
 [![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
 [![Python 3.6&nbsp;|&nbsp;3.7&nbsp;|&nbsp;3.8](https://img.shields.io/badge/python-3.6&nbsp;|&nbsp;3.7&nbsp;|&nbsp;3.8-blue.svg)](https://www.python.org/downloads/release/python-360/)
 
-The [Phd Satellite Trajectory](https://github.com/zampanteymedio/gym-satellite-trajectory) is a set of agents
+The [Phd Satellite Trajectory](https://github.com/zampanteymedio/phd-satellite-trajectory-public) is a set of agents
 that solve the [Satellite Trajectory](https://github.com/zampanteymedio/gym-satellite-trajectory) environments.
 
 # Installation
